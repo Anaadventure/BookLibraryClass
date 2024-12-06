@@ -75,6 +75,7 @@ int main() {
     return 0;
 }
 */
+//Verson2:
 int main() {
     const int NUM_BOOKS = 5;
     Book books[NUM_BOOKS];
